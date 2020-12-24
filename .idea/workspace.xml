@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="836989d3-f877-42c4-9480-24fdf9353773" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode-Swift/Array/20. 有效的括号.md" afterDir="false" />
+    <list default="true" id="836989d3-f877-42c4-9480-24fdf9353773" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/LeetCode-Swift/Array/53. 最大子序和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode-Swift/DP/70. 爬楼梯.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode-Swift/Tree/101. 对称二叉树.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode-Swift.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Swift.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Swift/Array/1. 两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Swift/Hash/1. 两数之和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Swift/Array/20. 有效的括号.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Swift/Stack/20. 有效的括号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Swift/Array/20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Swift/Array/21. 合并两个有序链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Swift/LinkedList/21. 合并两个有序链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Swift/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Swift/main.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +53,18 @@
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="LeetCode-Swift" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode-Swift/Array" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode-Swift/123" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode-Swift/123" />
       <recent name="$PROJECT_DIR$/LeetCode-Swift/Array" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode-Swift/DP" />
+      <recent name="$PROJECT_DIR$/LeetCode-Swift/Stack" />
+      <recent name="$PROJECT_DIR$/LeetCode-Swift/LinkedList" />
+      <recent name="$PROJECT_DIR$/LeetCode-Swift/Hash" />
     </key>
   </component>
   <component name="RunManager">
@@ -76,7 +90,31 @@
       <workItem from="1608774447282" duration="54000" />
       <workItem from="1608774781842" duration="218000" />
       <workItem from="1608775055201" duration="61000" />
+      <workItem from="1608775120234" duration="6411000" />
+      <workItem from="1608790942698" duration="8122000" />
     </task>
+    <task id="LOCAL-00001" summary="终于把工程文件创好了">
+      <created>1608775292332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608775292332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="21">
+      <created>1608779764825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608779764825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1608781618045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608781618045</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,27 +134,47 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="终于把工程文件创好了" />
+    <MESSAGE value="21" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="906" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608775038718">
+    <state x="906" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608791368827">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state x="906" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.982@0.23.1920.982" timestamp="1608775038718" />
-    <state width="1358" height="253" key="GridCell.Tab.0.bottom" timestamp="1608774440406">
+    <state x="906" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.982@0.23.1920.982" timestamp="1608791368827" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom" timestamp="1608816630058">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1608779181438" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1608802213638" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1608814463462" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1608816630058" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center" timestamp="1608816630057">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1608779181437" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1608802213637" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1608814463461" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1608816630057" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left" timestamp="1608816630057">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1608779181437" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1608802213637" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1608814463461" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1608816630057" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right" timestamp="1608816630058">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1608779181438" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1608802213638" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1608814463462" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1608816630058" />
+    <state x="768" y="265" key="Vcs.Push.Dialog.v2" timestamp="1608775308238">
       <screen x="0" y="23" width="1920" height="984" />
     </state>
-    <state width="1358" height="253" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1608774440406" />
-    <state width="1358" height="253" key="GridCell.Tab.0.center" timestamp="1608774440405">
-      <screen x="0" y="23" width="1920" height="984" />
-    </state>
-    <state width="1358" height="253" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1608774440405" />
-    <state width="1358" height="253" key="GridCell.Tab.0.left" timestamp="1608774440405">
-      <screen x="0" y="23" width="1920" height="984" />
-    </state>
-    <state width="1358" height="253" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1608774440405" />
-    <state width="1358" height="253" key="GridCell.Tab.0.right" timestamp="1608774440406">
-      <screen x="0" y="23" width="1920" height="984" />
-    </state>
-    <state width="1358" height="253" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1608774440406" />
+    <state x="768" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.984@0.23.1920.984" timestamp="1608775308238" />
   </component>
 </project>
